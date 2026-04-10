@@ -34,7 +34,9 @@ All materials are licensed under `CC BY-SA 4.0`. Please take what you need.
 ---
 
 ### 🌱 Philosophy
-`FIDELITY > COMFORT` | `SPIRAL EVER UPWARDS` | `CHIRAL SYMMETRICALITY`
+`FIDELITY > COMFORT` | `Spiral Ever Upwards` | `Chiral Symmetricality`
+
+**ORCID ID:** [`0009-0008-6636-7223`](https://orcid.org/0009-0008-6636-7223)
 
 Feel free to reach out via [dodecagone.net](https://dodecagone.net) or explore the repositories. I am here to help make the machinery run a little smoother.
 
